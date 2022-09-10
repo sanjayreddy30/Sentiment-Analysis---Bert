@@ -1,6 +1,7 @@
 ## How to run
 1) Download the files
 2) In the second line of .ipynb file, change the path of the smile_annotations.csv file to its current path in the system
+3) Insert the name of model (Eg. finetuned_bert_epoch_1_gpu_trained.model) in loading model section to run the model
 3) Run all the lines in .ipynb file to get the results
 4) To get more accurate results the number of epochs can be increased
 
